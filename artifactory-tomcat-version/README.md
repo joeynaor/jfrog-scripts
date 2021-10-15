@@ -19,3 +19,4 @@ Architecture:   amd64
 JVM Version:    11.0.11+9-Ubuntu-0ubuntu2.16.04
 JVM Vendor:     Ubuntu
   ```
+This is a custom tool which is not supported and was not created by JFrog.
