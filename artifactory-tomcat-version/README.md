@@ -2,7 +2,7 @@
 
 ### Provides you with the exact Tomcat version that is bundled with a given Artifactory version.
 
-#### Rquires wget, unzip, tar, internet connection and acccess to the /tmp/ directory.
+#### Rquires wget, unzip, tar, Java, internet connection and acccess to the /tmp/ directory.
 
 Usage: ./rt-tomcat.sh artifactory-version
 
